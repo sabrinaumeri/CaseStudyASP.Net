@@ -1,0 +1,152 @@
+[
+  {
+    "BRAND": "Logitech",
+    "PRODUCT NAME": "G403",
+    "GRAPHIC NAME": "LG403.png",
+    "MSRP": "57.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "A G-Series mouse. The G403 is an award winning wired gaming mouse.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Logitech",
+    "PRODUCT NAME": "G502 Hero",
+    "GRAPHIC NAME": "LG502.png",
+    "MSRP": "99.99",
+    "QUANTITY ON HAND": "15",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "A G-Series mouse. One of the top Logitech's high performance gaming mice.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Logitech",
+    "PRODUCT NAME": "G703",
+    "GRAPHIC NAME": "LG703.png",
+    "MSRP": "119.99",
+    "QUANTITY ON HAND": "25",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "A G-Series mouse, The G703 is a lightspeed wireless gaming mouse with HERO sensor.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Logitech",
+    "PRODUCT NAME": "G903",
+    "GRAPHIC NAME": "LG903.png",
+    "MSRP": "199.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": " A G-Series mouse. The G903 is an award winning lightspeed wireless mouse with HERO sensor.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Logitech",
+    "PRODUCT NAME": "PROX",
+    "GRAPHIC NAME": "LPROX.png",
+    "MSRP": "199.99",
+    "QUANTITY ON HAND": "25",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The PROX SuperLight from Logitechs Pro Series Gaming Mice.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Razer",
+    "PRODUCT NAME": "DeathAdder V2",
+    "GRAPHIC NAME": "RDeathAdderV2.png",
+    "MSRP": "99.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "Razer DeathAdder V2 is a wired gaming mouse with best in-class ergonomics.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Razer",
+    "PRODUCT NAME": "Viper",
+    "GRAPHIC NAME": "RViper.png",
+    "MSRP": "199.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "Razer Viper, the ambidextrous gaming mouse with Razer Hyperspeed Wireless.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Razer",
+    "PRODUCT NAME": "Basilisk V2",
+    "GRAPHIC NAME": "RBasiliskV2.png",
+    "MSRP": "109.99",
+    "QUANTITY ON HAND": "30",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "Razer Basilisk V2, a wired gaming mouse with 11 programmable buttons.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Razer",
+    "PRODUCT NAME": "OROCHI V2",
+    "GRAPHIC NAME": "ROrochiV2.png",
+    "MSRP": "89.99",
+    "QUANTITY ON HAND": "30",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "The Razer Orochi V2, a mobile wireless gaming mouse with up to 950 hours of battery life.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Razer",
+    "PRODUCT NAME": "Atheris",
+    "GRAPHIC NAME": "RAtheris.png",
+    "MSRP": "69.99",
+    "QUANTITY ON HAND": "30",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "The Razer Atheris, the ultimate wireless notebook ergonomic mouse.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Steelseries",
+    "PRODUCT NAME": "Rival 5",
+    "GRAPHIC NAME": "SRival5.png",
+    "MSRP": "79.99",
+    "QUANTITY ON HAND": "10",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Rival 5 is a multi-genre gaming mouse with 9 programmable buttons, lightweight and extra durable.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Steelseries",
+    "PRODUCT NAME": "Prime +",
+    "GRAPHIC NAME": "SPrimePlus.png",
+    "MSRP": "99.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Prime+ is a revolutionary Prestige optical magnetic switch mouse. OLES with full customization.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Steelseries",
+    "PRODUCT NAME": "Aerox 3",
+    "GRAPHIC NAME": "SAerox3.png",
+    "MSRP": "79.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Aerox 3 is an ultra lightweight mouse with super mesh cable with AquaBarrier for full protection.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Steelseries",
+    "PRODUCT NAME": "Rival 3",
+    "GRAPHIC NAME": "SRival3.png",
+    "MSRP": "39.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Rival 3 is a lightweight ergonomic mouse with a hyper durable build.",
+    "COST PRICE": ""
+  },
+  {
+    "BRAND": "Steelseries",
+    "PRODUCT NAME": "Rival 710",
+    "GRAPHIC NAME": "SRival710.png",
+    "MSRP": "124.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Rival 710 with on-board OLED screen, and split-trigger mechanical switches.",
+    "COST PRICE": ""
+  }
+]
