@@ -7,7 +7,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "A G-Series mouse. The G403 is an award winning wired gaming mouse.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Logitech",
@@ -17,7 +17,7 @@
     "QUANTITY ON HAND": "15",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "A G-Series mouse. One of the top Logitech's high performance gaming mice.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Logitech",
@@ -27,7 +27,7 @@
     "QUANTITY ON HAND": "25",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "A G-Series mouse, The G703 is a lightspeed wireless gaming mouse with HERO sensor.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Logitech",
@@ -37,7 +37,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": " A G-Series mouse. The G903 is an award winning lightspeed wireless mouse with HERO sensor.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Logitech",
@@ -47,7 +47,7 @@
     "QUANTITY ON HAND": "25",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The PROX SuperLight from Logitechs Pro Series Gaming Mice.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Razer",
@@ -57,7 +57,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "Razer DeathAdder V2 is a wired gaming mouse with best in-class ergonomics.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Razer",
@@ -67,7 +67,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "Razer Viper, the ambidextrous gaming mouse with Razer Hyperspeed Wireless.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Razer",
@@ -77,7 +77,7 @@
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "Razer Basilisk V2, a wired gaming mouse with 11 programmable buttons.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Razer",
@@ -87,7 +87,7 @@
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "The Razer Orochi V2, a mobile wireless gaming mouse with up to 950 hours of battery life.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Razer",
@@ -97,7 +97,7 @@
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "The Razer Atheris, the ultimate wireless notebook ergonomic mouse.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Steelseries",
@@ -107,7 +107,7 @@
     "QUANTITY ON HAND": "10",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Rival 5 is a multi-genre gaming mouse with 9 programmable buttons, lightweight and extra durable.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Steelseries",
@@ -117,7 +117,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Prime+ is a revolutionary Prestige optical magnetic switch mouse. OLES with full customization.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Steelseries",
@@ -127,7 +127,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Aerox 3 is an ultra lightweight mouse with super mesh cable with AquaBarrier for full protection.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Steelseries",
@@ -137,7 +137,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Rival 3 is a lightweight ergonomic mouse with a hyper durable build.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   },
   {
     "BRAND": "Steelseries",
@@ -147,6 +147,6 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Rival 710 with on-board OLED screen, and split-trigger mechanical switches.",
-    "COST PRICE": ""
+    "COST PRICE": "0.0"
   }
 ]

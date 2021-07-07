@@ -17,7 +17,7 @@ namespace CaseStudy.DAL.DAO
 
         public async Task<List<Brand>> GetAll()
         {
-            return await _db.BrandItems.ToListAsync<Brand>();
+            return await _db.Brands.ToListAsync<Brand>();
         }
     }
 }

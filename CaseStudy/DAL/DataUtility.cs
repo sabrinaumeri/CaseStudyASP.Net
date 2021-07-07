@@ -37,12 +37,12 @@ namespace CaseStudy.DAL
 
         private async Task<bool> loadBrands(dynamic jsonObjectArray)
         {
-            bool loadedBrands = false;
+            bool loadedProducts = false;
 
             try
             {
                 // clear out the old rows
-                _db.BrandItems.RemoveRange(_db.BrandItems);
+                _db.Brands.RemoveRange(_db.Brands);
                 await _db.SaveChangesAsync();
 
                 List<String> allBrands = new List<String>();
@@ -61,17 +61,17 @@ namespace CaseStudy.DAL
                 {
                     Brand brnd = new Brand();
                     brnd.Name = catname;
-                    await _db.BrandItems.AddAsync(brnd);
+                    await _db.Brands.AddAsync(brnd);
                     await _db.SaveChangesAsync();
                 }
 
-                loadedBrands = true;
+                loadedProducts = true;
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error - " + ex.Message);
             }
-            return loadedBrands;
+            return loadedProducts;
         }
 
 
@@ -80,22 +80,22 @@ namespace CaseStudy.DAL
             bool loadedItems = false;
             try
             {
-                List<Brand> brands = _db.BrandItems.ToList();
+                List<Brand> brands = _db.Brands.ToList();
                 // clear out the old
-                _db.BrandItems.RemoveRange(_db.BrandItems);
+                _db.ProductItems.RemoveRange(_db.ProductItems);
                 await _db.SaveChangesAsync();
                 foreach (JsonElement element in jsonObjectArray.EnumerateArray())
                 {
                     Product item = new Product();
                     //item.brand = element.GetProperty("BRAND").GetString();
-                    item.ProductName = element.GetProperty("Product Name").GetString();
-                    item.GraphicName = element.GetProperty("Image Name").GetString();
-                    item.CostPrice = (decimal)Convert.ToSingle(element.GetProperty("Cost Price").GetString());
+                    item.ProductName = element.GetProperty("PRODUCT NAME").GetString();
+                    item.GraphicName = element.GetProperty("GRAPHIC NAME").GetString();
+                    item.CostPrice = (decimal)Convert.ToSingle(element.GetProperty("COST PRICE").GetString());
                     item.MSRP = Convert.ToInt32(element.GetProperty("MSRP").GetString());
-                    item.QtyOnHand = Convert.ToInt32(element.GetProperty("QTY On Hand").GetString());
-                    item.QtyOnBackOrder = Convert.ToInt32(element.GetProperty("Qty On Back Order").GetString());
-                    item.Description = element.GetProperty("Description").GetString();
-                    string cat = element.GetProperty("CATEGORY").GetString();
+                    item.QtyOnHand = Convert.ToInt32(element.GetProperty("QUANTITY ON HAND").GetString());
+                    item.QtyOnBackOrder = Convert.ToInt32(element.GetProperty("QUANTITY ON BACK ORDER").GetString());
+                    item.Description = element.GetProperty("DESCRIPTION").GetString();
+                    string cat = element.GetProperty("BRAND").GetString();
                     // add the FK here
                     foreach (Brand brand in brands)
                     {
@@ -105,7 +105,7 @@ namespace CaseStudy.DAL
                             break;
                         }
                     }
-                    await _db.Products.AddAsync(item);
+                    await _db.ProductItems.AddAsync(item);
                     await _db.SaveChangesAsync();
                 }
                 loadedItems = true;

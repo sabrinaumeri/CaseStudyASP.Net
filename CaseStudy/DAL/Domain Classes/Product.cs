@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace CaseStudy.DAL.Domain_Classes
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class Product : ControllerBase
+    //[Route("api/[controller]")]
+    //[ApiController]
+    public class Product //: ControllerBase
     {
         public string Id { get; set; }
         public Brand Brand { get; set; }
