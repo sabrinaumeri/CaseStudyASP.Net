@@ -13,7 +13,7 @@ namespace CaseStudy.DAL.Domain_Classes
     //[ApiController]
     public class Product //: ControllerBase
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public Brand Brand { get; set; }
         public byte[] Timer { get; set; }
         public string ProductName { get; set; }

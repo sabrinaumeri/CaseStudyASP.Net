@@ -90,8 +90,8 @@ namespace CaseStudy.DAL
                     //item.brand = element.GetProperty("BRAND").GetString();
                     item.ProductName = element.GetProperty("PRODUCT NAME").GetString();
                     item.GraphicName = element.GetProperty("GRAPHIC NAME").GetString();
-                    item.CostPrice = (decimal)Convert.ToSingle(element.GetProperty("COST PRICE").GetString());
-                    item.MSRP = Convert.ToInt32(element.GetProperty("MSRP").GetString());
+                    item.CostPrice = Convert.ToDecimal(element.GetProperty("COST PRICE").GetString()); //(decimal)Convert.ToSingle(element.GetProperty("COST PRICE").GetString());
+                    item.MSRP = Convert.ToDecimal(element.GetProperty("MSRP").GetString());
                     item.QtyOnHand = Convert.ToInt32(element.GetProperty("QUANTITY ON HAND").GetString());
                     item.QtyOnBackOrder = Convert.ToInt32(element.GetProperty("QUANTITY ON BACK ORDER").GetString());
                     item.Description = element.GetProperty("DESCRIPTION").GetString();
