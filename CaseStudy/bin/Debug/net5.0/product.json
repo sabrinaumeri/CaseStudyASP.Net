@@ -1,5 +1,6 @@
 [
   {
+    "ID": "LG403",
     "BRAND": "Logitech",
     "PRODUCT NAME": "G403",
     "GRAPHIC NAME": "LG403.png",
@@ -10,6 +11,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "LG502",
     "BRAND": "Logitech",
     "PRODUCT NAME": "G502 Hero",
     "GRAPHIC NAME": "LG502.png",
@@ -20,6 +22,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "LG703",
     "BRAND": "Logitech",
     "PRODUCT NAME": "G703",
     "GRAPHIC NAME": "LG703.png",
@@ -30,6 +33,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "LG903",
     "BRAND": "Logitech",
     "PRODUCT NAME": "G903",
     "GRAPHIC NAME": "LG903.png",
@@ -40,6 +44,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "LPROX1",
     "BRAND": "Logitech",
     "PRODUCT NAME": "PROX",
     "GRAPHIC NAME": "LPROX.png",
@@ -50,6 +55,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "RDeathAdderV2",
     "BRAND": "Razer",
     "PRODUCT NAME": "DeathAdder V2",
     "GRAPHIC NAME": "RDeathAdderV2.png",
@@ -60,6 +66,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "RViper",
     "BRAND": "Razer",
     "PRODUCT NAME": "Viper",
     "GRAPHIC NAME": "RViper.png",
@@ -70,6 +77,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "RBasiliskV2",
     "BRAND": "Razer",
     "PRODUCT NAME": "Basilisk V2",
     "GRAPHIC NAME": "RBasiliskV2.png",
@@ -80,6 +88,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "ROrochiV2",
     "BRAND": "Razer",
     "PRODUCT NAME": "OROCHI V2",
     "GRAPHIC NAME": "ROrochiV2.png",
@@ -90,6 +99,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "RAtheris",
     "BRAND": "Razer",
     "PRODUCT NAME": "Atheris",
     "GRAPHIC NAME": "RAtheris.png",
@@ -100,6 +110,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "SRival5",
     "BRAND": "Steelseries",
     "PRODUCT NAME": "Rival 5",
     "GRAPHIC NAME": "SRival5.png",
@@ -110,6 +121,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "SPrimePlus",
     "BRAND": "Steelseries",
     "PRODUCT NAME": "Prime +",
     "GRAPHIC NAME": "SPrimePlus.png",
@@ -120,6 +132,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "SAerox3",
     "BRAND": "Steelseries",
     "PRODUCT NAME": "Aerox 3",
     "GRAPHIC NAME": "SAerox3.png",
@@ -130,6 +143,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "SRival3",
     "BRAND": "Steelseries",
     "PRODUCT NAME": "Rival 3",
     "GRAPHIC NAME": "SRival3.png",
@@ -140,6 +154,7 @@
     "COST PRICE": "0.0"
   },
   {
+    "ID": "SRival710",
     "BRAND": "Steelseries",
     "PRODUCT NAME": "Rival 710",
     "GRAPHIC NAME": "SRival710.png",

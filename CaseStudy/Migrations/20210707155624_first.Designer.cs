@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CaseStudy.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20210707151832_first")]
+    [Migration("20210707155624_first")]
     partial class first
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,7 +74,9 @@ namespace CaseStudy.Migrations
                         .HasColumnType("int");
 
                     b.Property<byte[]>("Timer")
-                        .HasColumnType("varbinary(max)");
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasMaxLength(8)
+                        .HasColumnType("timestamp");
 
                     b.HasKey("Id");
 

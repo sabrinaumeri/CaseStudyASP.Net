@@ -13,9 +13,8 @@ namespace CaseStudy.DAL.Domain_Classes
     //[ApiController]
     public class Product //: ControllerBase
     {
-        public int Id { get; set; }
+        public string Id { get; set; }
         public Brand Brand { get; set; }
-        public byte[] Timer { get; set; }
         public string ProductName { get; set; }
         public string GraphicName { get; set; }
         [Column (TypeName = "money")]
@@ -26,5 +25,9 @@ namespace CaseStudy.DAL.Domain_Classes
         public int QtyOnBackOrder { get; set; }
         [StringLength(2000)]
         public string Description { get; set; }
+        [Column(TypeName = "timestamp")]
+        [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
+        [MaxLength(8)]
+        public byte[] Timer { get; set; }
     }
 }

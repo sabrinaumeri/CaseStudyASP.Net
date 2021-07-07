@@ -88,6 +88,7 @@ namespace CaseStudy.DAL
                 {
                     Product item = new Product();
                     //item.brand = element.GetProperty("BRAND").GetString();
+                    item.Id = element.GetProperty("ID").GetString();
                     item.ProductName = element.GetProperty("PRODUCT NAME").GetString();
                     item.GraphicName = element.GetProperty("GRAPHIC NAME").GetString();
                     item.CostPrice = Convert.ToDecimal(element.GetProperty("COST PRICE").GetString()); //(decimal)Convert.ToSingle(element.GetProperty("COST PRICE").GetString());

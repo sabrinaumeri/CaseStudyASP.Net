@@ -27,14 +27,14 @@ namespace CaseStudy.Migrations
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     BrandId = table.Column<int>(type: "int", nullable: true),
-                    Timer = table.Column<byte[]>(type: "varbinary(max)", nullable: true),
                     ProductName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     GraphicName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     CostPrice = table.Column<decimal>(type: "money", nullable: false),
                     MSRP = table.Column<decimal>(type: "money", nullable: false),
                     QtyOnHand = table.Column<int>(type: "int", nullable: false),
                     QtyOnBackOrder = table.Column<int>(type: "int", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(2000)", maxLength: 2000, nullable: true)
+                    Description = table.Column<string>(type: "nvarchar(2000)", maxLength: 2000, nullable: true),
+                    Timer = table.Column<byte[]>(type: "timestamp", maxLength: 8, nullable: true)
                 },
                 constraints: table =>
                 {

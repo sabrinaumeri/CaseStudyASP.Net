@@ -72,7 +72,9 @@ namespace CaseStudy.Migrations
                         .HasColumnType("int");
 
                     b.Property<byte[]>("Timer")
-                        .HasColumnType("varbinary(max)");
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasMaxLength(8)
+                        .HasColumnType("timestamp");
 
                     b.HasKey("Id");
 
