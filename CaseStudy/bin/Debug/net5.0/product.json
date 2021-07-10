@@ -1,7 +1,7 @@
 [
   {
     "ID": "LG403",
-    "BRAND": "SONY",
+    "BRAND": "LOGITECH",
     "PRODUCT NAME": "G403",
     "GRAPHIC NAME": "LG403.png",
     "MSRP": "57.99",
@@ -12,7 +12,7 @@
   },
   {
     "ID": "LG502",
-    "BRAND": "SONY",
+    "BRAND": "LOGITECH",
     "PRODUCT NAME": "G502 Hero",
     "GRAPHIC NAME": "LG502.png",
     "MSRP": "99.99",
@@ -23,7 +23,7 @@
   },
   {
     "ID": "LG703",
-    "BRAND": "SONY",
+    "BRAND": "LOGITECH",
     "PRODUCT NAME": "G703",
     "GRAPHIC NAME": "LG703.png",
     "MSRP": "119.99",
@@ -34,7 +34,7 @@
   },
   {
     "ID": "LG903",
-    "BRAND": "SONY",
+    "BRAND": "LOGITECH",
     "PRODUCT NAME": "G903",
     "GRAPHIC NAME": "LG903.png",
     "MSRP": "199.99",
@@ -45,7 +45,7 @@
   },
   {
     "ID": "LPROX1",
-    "BRAND": "SONY",
+    "BRAND": "LOGITECH",
     "PRODUCT NAME": "PROX",
     "GRAPHIC NAME": "LPROX.png",
     "MSRP": "199.99",
@@ -56,7 +56,7 @@
   },
   {
     "ID": "RDeathAdderV2",
-    "BRAND": "NINTENDO",
+    "BRAND": "RAZER",
     "PRODUCT NAME": "DeathAdder V2",
     "GRAPHIC NAME": "RDeathAdderV2.png",
     "MSRP": "99.99",
@@ -67,7 +67,7 @@
   },
   {
     "ID": "RViper",
-    "BRAND": "NINTENDO",
+    "BRAND": "RAZER",
     "PRODUCT NAME": "Viper",
     "GRAPHIC NAME": "RViper.png",
     "MSRP": "199.99",
@@ -78,7 +78,7 @@
   },
   {
     "ID": "RBasiliskV2",
-    "BRAND": "NINTENDO",
+    "BRAND": "RAZER",
     "PRODUCT NAME": "Basilisk V2",
     "GRAPHIC NAME": "RBasiliskV2.png",
     "MSRP": "109.99",
@@ -89,7 +89,7 @@
   },
   {
     "ID": "ROrochiV2",
-    "BRAND": "NINTENDO",
+    "BRAND": "RAZER",
     "PRODUCT NAME": "OROCHI V2",
     "GRAPHIC NAME": "ROrochiV2.png",
     "MSRP": "89.99",
@@ -100,7 +100,7 @@
   },
   {
     "ID": "RAtheris",
-    "BRAND": "NINTENDO",
+    "BRAND": "RAZER",
     "PRODUCT NAME": "Atheris",
     "GRAPHIC NAME": "RAtheris.png",
     "MSRP": "69.99",
@@ -111,7 +111,7 @@
   },
   {
     "ID": "SRival5",
-    "BRAND": "MICROSOFT",
+    "BRAND": "STEELSERIES",
     "PRODUCT NAME": "Rival 5",
     "GRAPHIC NAME": "SRival5.png",
     "MSRP": "79.99",
@@ -122,7 +122,7 @@
   },
   {
     "ID": "SPrimePlus",
-    "BRAND": "MICROSOFT",
+    "BRAND": "STEELSERIES",
     "PRODUCT NAME": "Prime +",
     "GRAPHIC NAME": "SPrimePlus.png",
     "MSRP": "99.99",
@@ -133,7 +133,7 @@
   },
   {
     "ID": "SAerox3",
-    "BRAND": "MICROSOFT",
+    "BRAND": "STEELSERIES",
     "PRODUCT NAME": "Aerox 3",
     "GRAPHIC NAME": "SAerox3.png",
     "MSRP": "79.99",
@@ -144,7 +144,7 @@
   },
   {
     "ID": "SRival3",
-    "BRAND": "MICROSOFT",
+    "BRAND": "STEELSERIES",
     "PRODUCT NAME": "Rival 3",
     "GRAPHIC NAME": "SRival3.png",
     "MSRP": "39.99",
@@ -155,7 +155,7 @@
   },
   {
     "ID": "SRival710",
-    "BRAND": "MICROSOFT",
+    "BRAND": "STEELSERIES",
     "PRODUCT NAME": "Rival 710",
     "GRAPHIC NAME": "SRival710.png",
     "MSRP": "124.99",
