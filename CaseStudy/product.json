@@ -8,7 +8,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "A G-Series mouse. The G403 is an award winning wired gaming mouse.",
-    "COST PRICE": "50.0"
+    "COST PRICE": "57.99"
   },
   {
     "ID": "LG502",
@@ -19,7 +19,7 @@
     "QUANTITY ON HAND": "15",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "A G-Series mouse. One of the top Logitech's high performance gaming mice.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "99.99"
   },
   {
     "ID": "LG703",
@@ -30,7 +30,7 @@
     "QUANTITY ON HAND": "25",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "A G-Series mouse, The G703 is a lightspeed wireless gaming mouse with HERO sensor.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "119.99"
   },
   {
     "ID": "LG903",
@@ -41,7 +41,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": " A G-Series mouse. The G903 is an award winning lightspeed wireless mouse with HERO sensor.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "199.99"
   },
   {
     "ID": "LPROX1",
@@ -52,7 +52,7 @@
     "QUANTITY ON HAND": "25",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The PROX SuperLight from Logitechs Pro Series Gaming Mice.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "199.99"
   },
   {
     "ID": "RDeathAdderV2",
@@ -63,7 +63,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "Razer DeathAdder V2 is a wired gaming mouse with best in-class ergonomics.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "99.99"
   },
   {
     "ID": "RViper",
@@ -74,7 +74,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "Razer Viper, the ambidextrous gaming mouse with Razer Hyperspeed Wireless.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "199.99"
   },
   {
     "ID": "RBasiliskV2",
@@ -85,7 +85,7 @@
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "Razer Basilisk V2, a wired gaming mouse with 11 programmable buttons.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "109.99"
   },
   {
     "ID": "ROrochiV2",
@@ -96,7 +96,7 @@
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "The Razer Orochi V2, a mobile wireless gaming mouse with up to 950 hours of battery life.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "89.99"
   },
   {
     "ID": "RAtheris",
@@ -107,7 +107,7 @@
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "The Razer Atheris, the ultimate wireless notebook ergonomic mouse.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "69.99"
   },
   {
     "ID": "SRival5",
@@ -118,7 +118,7 @@
     "QUANTITY ON HAND": "10",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Rival 5 is a multi-genre gaming mouse with 9 programmable buttons, lightweight and extra durable.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "79.99"
   },
   {
     "ID": "SPrimePlus",
@@ -129,7 +129,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Prime+ is a revolutionary Prestige optical magnetic switch mouse. OLES with full customization.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "99.99"
   },
   {
     "ID": "SAerox3",
@@ -140,7 +140,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Aerox 3 is an ultra lightweight mouse with super mesh cable with AquaBarrier for full protection.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "79.99"
   },
   {
     "ID": "SRival3",
@@ -151,7 +151,7 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Rival 3 is a lightweight ergonomic mouse with a hyper durable build.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "39.99"
   },
   {
     "ID": "SRival710",
@@ -162,6 +162,6 @@
     "QUANTITY ON HAND": "20",
     "QUANTITY ON BACK ORDER": "10",
     "DESCRIPTION": "The Steelseries Rival 710 with on-board OLED screen, and split-trigger mechanical switches.",
-    "COST PRICE": "0.0"
+    "COST PRICE": "124.99"
   }
 ]
