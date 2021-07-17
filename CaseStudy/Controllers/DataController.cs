@@ -22,7 +22,7 @@ namespace CaseStudy.Controllers
 
         private async Task<String> getMenuItemJsonFromWebAsync()
         {
-            string url = "https://raw.githubusercontent.com/sabrinaumeri/CaseStudyASP.Net/main/CaseStudy/product.json?token=ASKJKU6WHURRD7TZCDLMSK3A5W5QM";
+            string url = "https://raw.githubusercontent.com/sabrinaumeri/CaseStudyASP.Net/main/CaseStudy/product.json?token=ASKJKUZR2KJV7E44LHSM4RDA7ISAU";
             var httpClient = new HttpClient();
             var response = await httpClient.GetAsync(url);
             var result = await response.Content.ReadAsStringAsync();
